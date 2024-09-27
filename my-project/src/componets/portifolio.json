@@ -1,0 +1,42 @@
+
+ [
+
+
+    {
+        "title": "JavaScript",
+        "img": "JS.png",
+        "text": "Venho aprendendo na matéria de Web-Development a programar em JavaScript.",
+        "id": 1
+    },
+    { 
+        "title": "Python",
+        "img": "PY.png",
+        "text": "Por volta do final de 2020 comecei a estudar Python por conta propria durante o ensino medio, e atualmente estudo essa mesma matéra na FIAP.",
+        "id": 2
+    },
+    {
+        "title": "Front-end",
+        "img": "html.png",
+        "text": "Durante as aulas de Front-end, tenho aprendido e aprimorado meus conhecimentos em HTML5 e CSS3.",
+        "id": 3
+    },
+    {
+        "title": "C++",
+        "img": "C.png",
+        "text": "Construir projetos em arduino ultilizando a linguagem C++ nunca foi tão fácil desde que comecei a cursar a matéria de Edge na FIAP.",
+        "id": 4
+    },
+    {
+        "title": "BotCity",
+        "img": "BT.png",
+        "text": "Em 2022 desenvolvi um Bot que me auxiliava em meu trabalho de importação de notas fiscais no escritório de contabilidade do meu avô.",
+        "id": 5
+    },
+    {
+        "title": "React",
+        "img": "react.svg",
+        "text": "Ultilizando o JavaScript, aprendi a desenvolver aplicações organizadas com React.",
+        "id": 6
+    }
+]
+

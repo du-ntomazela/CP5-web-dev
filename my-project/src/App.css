@@ -1,0 +1,90 @@
+body{
+  padding: 30px;
+  background-color: rgb(0, 1, 28);
+}
+
+
+#div-header {
+  font-size: 100%;
+  
+
+  color: aliceblue;
+}
+#main-text{
+  width: 50%;
+}
+ 
+  
+#main-paragraph{
+  color: aliceblue;
+}
+
+#header {
+  border-radius: 30px;
+  padding: 5px;
+  box-shadow: 2px black;
+  z-index: 4;
+}
+
+#a-navbar {
+  transition: 0.5s;
+  
+}
+#a-navbar:hover {
+  transform: scale(1.1);
+
+}
+#a-navbar-home {
+  transition: 0.5s;
+  color: aqua;
+}
+#a-navbar-home:hover {
+  transform: scale(1.1);
+  color: rgb(0, 255, 191);
+
+}
+
+#main-title {
+  color: aliceblue;
+}
+
+#nome {
+  color: aqua;
+}
+#main-title {
+  font-size: 40px;
+  font-family:Designer;
+}
+
+@font-face {
+  font-family: Designer;
+  src: url(./componets/fontes/DESIGNER.otf);
+}
+
+#main-img{
+  width: 40%;
+}
+#conteiner-header {
+  align-items: start;
+}
+
+.back-img {
+  position: absolute;
+  z-index: -2;
+  width: 90%;
+}
+#cards {
+  border-radius: 30px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;;
+  transition: 0.5s;
+  
+}
+
+#cards:hover{
+  transform: scale(1.1);
+}
+
+#footer {
+  border-radius: 15px 15px 0 0;
+  height: 10%;
+}
